@@ -1,3 +1,7 @@
+<span class="badge-placeholder">[![Stars](https://img.shields.io/github/stars/ekcbw/PyModuleHook)](https://img.shields.io/github/stars/ekcbw/PyModuleHook)</span>
+<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/ekcbw/PyModuleHook)](https://github.com/ekcbw/PyModuleHook/releases/latest)</span>
+<span class="badge-placeholder">[![License: MIT](https://img.shields.io/github/license/ekcbw/PyModuleHook)](https://github.com/ekcbw/PyModuleHook/blob/main/LICENSE)</span>
+
 **The English introduction is shown below the Chinese version.**
 
 `pymodhook`是一个记录任意对Python模块的调用的库，用于Python逆向分析。  
