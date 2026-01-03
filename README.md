@@ -1,6 +1,6 @@
-<span class="badge-placeholder">[![Stars](https://img.shields.io/github/stars/ekcbw/PyModuleHook)](https://img.shields.io/github/stars/ekcbw/PyModuleHook)</span>
-<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/ekcbw/PyModuleHook)](https://github.com/ekcbw/PyModuleHook/releases/latest)</span>
-<span class="badge-placeholder">[![License: MIT](https://img.shields.io/github/license/ekcbw/PyModuleHook)](https://github.com/ekcbw/PyModuleHook/blob/main/LICENSE)</span>
+<span class="badge-placeholder">[![Stars](https://img.shields.io/github/stars/ekcbw/pymodhook)](https://img.shields.io/github/stars/ekcbw/pymodhook)</span>
+<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/ekcbw/pymodhook)](https://github.com/ekcbw/pymodhook/releases/latest)</span>
+<span class="badge-placeholder">[![License: MIT](https://img.shields.io/github/license/ekcbw/pymodhook)](https://github.com/ekcbw/pymodhook/blob/main/LICENSE)</span>
 
 [English | [中文](README_zh.md)]
 
