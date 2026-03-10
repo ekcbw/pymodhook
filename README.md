@@ -4,7 +4,7 @@
 
 [English | [中文](README_zh.md)]
 
-`pymodhook` is a library for recording arbitrary calls to Python modules, intended for Python reverse engineering and analysis.  
+`pymodhook` is a library for recording arbitrary calls to Python modules, intended for Python reverse engineering and analysis. It supports multiple platforms including Windows, Linux and macOS.  
 The `pymodhook` library is similar to the Xposed framework for Android, but it not only records function call arguments and return values—it can also record arbitrary method calls of module classes, as well as access to any derived objects, based on the [pyobject.objproxy](https://github.com/ekcbw/pyobject?tab=readme-ov-file#object-proxy-classes-objchain-and-proxiedobj) library.
 
 ## Installation

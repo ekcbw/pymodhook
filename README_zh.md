@@ -1,6 +1,6 @@
 [[English](README.md) | 中文]
 
-`pymodhook`是一个记录任意对Python模块的调用的库，用于Python逆向分析。  
+`pymodhook`是一个记录任意Python模块调用的库，用于Python逆向分析，支持Windows、Linux和macOS等多平台。  
 `pymodhook`库类似于Android的xposed框架，但不仅能记录函数的调用参数和返回值，还能记录模块的类的任意方法调用，以及任意派生对象的访问，基于[pyobject.objproxy](https://github.com/ekcbw/pyobject?tab=readme-ov-file#%E5%AF%B9%E8%B1%A1%E4%BB%A3%E7%90%86%E7%B1%BBobjchain%E5%92%8Cproxiedobj)库实现。  
 
 ## 安装
