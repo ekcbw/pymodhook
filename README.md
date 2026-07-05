@@ -148,7 +148,19 @@ For example, the structure of `matplotlib.pyplot.json` is as follows:
 }
 ```
 
-## Usage of DLL Injection Tool  
+Here is the English translation, keeping your original Markdown formatting intact:
+
+## Injection Steps
+
+### Python 3.14+
+
+Try the `sys.remote_exec()` API.
+
+### Linux/macOS
+
+Try the [robusta-dev/debug-toolkit](https://github.com/robusta-dev/debug-toolkit) project.
+
+### Windows (The DLL Injection Tool)
 
 The repository directory [hook_win32](https://github.com/ekcbw/PyModuleHook/tree/main/tools/hook_win32) contains a DLL injection tool. Since it only relies on loaded `python3x.dll`, it supports recording module calls of applications packaged with Nuitka/Cython, not just PyInstaller.  
 **Note: Do NOT use this tool to inject any unauthorized commercial softwares!**  

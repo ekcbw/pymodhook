@@ -143,7 +143,15 @@ pymodhook-patches目录内部包含了多个以模块名命名的json文件，�
 }
 ```
 
-## DLL注入工具的用法
+## 注入步骤
+
+### Python 3.14+
+尝试`sys.remote_exec()` 这个API。
+
+### Linux/macOS
+尝试[robusta-dev/debug-toolkit](https://github.com/robusta-dev/debug-toolkit)这个项目。
+
+### Windows（DLL注入工具）
 仓库的目录[hook_win32](https://github.com/ekcbw/PyModuleHook/tree/main/tools/hook_win32)包含了一个DLL注入的工具，由于只依赖于加载的python3x.dll，支持记录Nuitka/Cython打包的应用的模块调用，而不仅仅是PyInstaller。  
 **备注：请勿用本工具注入未授权的商业软件！**  
 
