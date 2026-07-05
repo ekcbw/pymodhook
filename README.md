@@ -158,7 +158,7 @@ Try the `sys.remote_exec()` API.
 
 ### Linux/macOS
 
-Try the [robusta-dev/debug-toolkit](https://github.com/robusta-dev/debug-toolkit) project.
+You can use the [robusta-dev/debug-toolkit](https://github.com/robusta-dev/debug-toolkit) project.
 
 ### Windows (The DLL Injection Tool)
 
