@@ -280,4 +280,4 @@ Example of `var_dump.txt`:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ekcbw/pymodhook&type=date&legend=top-left)](https://www.star-history.com/#ekcbw/pymodhook&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/chart?repos=ekcbw/pymodhook&type=date&legend=top-left&sealed_token=vG2lPnV8luRMF0tFXNyJKoHcQhBqafcYEAJtW191OHg875r7rQYWr0fpQs3Vfc9XPVY4GduSyUxnZ3uQY3xmN-DFkETjM7IkrmHCBMMzWYjoZeDW0JIcodef8QWmp87hbr9oxMBVZyPT6hVY8PQX8JYnszpqCYq2xw9EKKkzrmcebH8CgFFido6WhDW_)](https://www.star-history.com/?repos=ekcbw%2Fpymodhook&type=date&legend=top-left)
