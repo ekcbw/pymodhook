@@ -148,8 +148,6 @@ For example, the structure of `matplotlib.pyplot.json` is as follows:
 }
 ```
 
-Here is the English translation, keeping your original Markdown formatting intact:
-
 ## Injection Steps
 
 ### Python 3.14+
